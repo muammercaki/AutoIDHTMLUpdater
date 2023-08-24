@@ -31,7 +31,4 @@ You can install the libraries using the following command:
 ```bash
 pip install -r requirements.txt
 
-## License
-
-This project is licensed under the MIT License. For more information, please see the [LICENSE file](LICENSE).
 
