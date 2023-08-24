@@ -1,0 +1,83 @@
+# .gitignore for Visual Studio Code
+
+# User-specific files
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+.vscode/extensions.json
+
+# Workspace-specific files
+.vscode/*.code-workspace
+
+# Folder-specific files
+.vscode/settings.json
+.vscode/tasks.json
+.vscode/launch.json
+
+# Compiled Python files
+__pycache__/
+*.py[cod]
+
+# Compiled Jupyter notebooks
+.ipynb_checkpoints/
+
+# Python virtual environments
+venv/
+env/
+ENV/
+
+# Node.js dependencies
+node_modules/
+
+# Compiled TypeScript files
+*.js
+*.js.map
+
+# Compiled JavaScript files
+*.ts
+*.js.map
+
+# Compiled CSS files
+*.css
+*.css.map
+
+# Compiled SASS/SCSS files
+*.sass
+*.scss
+*.css.map
+
+# Dependency directories
+typings/
+.npm/
+.jspm/
+
+# Windows image file caches
+Thumbs.db
+
+# macOS folder attributes
+.DS_Store
+
+# macOS file that stores folder icon positions
+Icon?
+
+# Visual Studio Code workspace settings
+.code-workspace
+
+# Prettier configuration file
+.prettierrc
+.prettierignore
+
+# npm cache
+.npm
+
+# yarn.lock file
+yarn.lock
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
